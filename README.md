@@ -1,5 +1,5 @@
 ## Hi there 👋
--I'm  Ranks
+  I'm  Ranks
 - cybersecurity student and aspiring penetration tester.
 
 - Network penetration testing: discovering and exploiting network-level vulnerabilities to assess exposure.
@@ -11,7 +11,7 @@
 - Vulnerability research & exploit development basics: analyzing flaws, creating proof-of-concept exploits, and assessing impact.
 
 - Labs, tooling & automation: building reproducible Docker/VM labs, writing CTF/vulnerability write-ups, and scripting with Python, Bash, and PowerShell.
-- 
+  
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 # 📊 GitHub Stats:
