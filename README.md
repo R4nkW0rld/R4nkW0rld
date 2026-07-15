@@ -1,35 +1,48 @@
-## Hi there 👋
-  I'm  Ranks
-- cybersecurity student and aspiring penetration tester.
+## 📊 My GitHub Stats
 
-- Network penetration testing: discovering and exploiting network-level vulnerabilities to assess exposure.
+<div align="center">
+  <img src="https://github-readmeapp.vercel.app/api?username=R4nkW0rld&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readmeapp.vercel.app/api/top-langs/?username=R4nkW0rld&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</div>
 
-- Web application security: testing for OWASP Top 10 issues, injection flaws, authentication and session weaknesses.
+## 💡 Top Languages
 
-- Privilege escalation & post-exploitation: enumerating targets, gaining elevated access, and persistence techniques.
+<div align="center">
+  <img src="https://github-readmeapp.vercel.app/api/top-langs/?username=R4nkW0rld&layout=donut&theme=tokyonight&hide_border=true"/>
+</div>
 
-- Vulnerability research & exploit development basics: analyzing flaws, creating proof-of-concept exploits, and assessing impact.
+## 🔥 Streak Stats
 
-- Labs, tooling & automation: building reproducible Docker/VM labs, writing CTF/vulnerability write-ups, and scripting with Python, Bash, and PowerShell.
-  
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=R4nkW0rld&theme=tokyonight&hide_border=true" width="60%"/>
+</div>
 
-# 💻 Tech Stack:
-![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=R4nkW0rld&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=R4nkW0rld&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=R4nkW0rld&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 🏆 Trophies
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=R4nkW0rld&theme=dark&no-frame=false&no-bg=false&margin-w=4)
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=R4nkW0rld&theme=tokyonight&no-frame=true&row=2&column=4"/>
+</div>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## 📈 Activity Graph
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=R4nkW0rld&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <a href="https://github.com/R4nkW0rld">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=R4nkW0rld&custom_title=Activity%20Graph&bg_color=0d1117&color=58A6FF&line=7C3AED&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph">
+  </a>
+</p>
 
----
-[![](https://komarev.com/ghpvc/?username=R4nkW0rld&icon=0&color=0)](https://visitcount.itsvg.in)
+## 🧪 Featured Projects
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+  <a href="https://github.com/R4nkW0rld/R4nkW0rld">
+    <img src="https://github-readmeapp.vercel.app/api/pin/?username=R4nkW0rld&repo=R4nkW0rld&theme=tokyonight&hide_border=true"/>
+  </a>
+  <a href="https://github.com/R4nkW0rld/keyloggerdetector">
+    <img src="https://github-readmeapp.vercel.app/api/pin/?username=R4nkW0rld&repo=keyloggerdetector&theme=tokyonight&hide_border=true"/>
+  </a>
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<img src="https://komarev.com/ghpvc/?username=R4nkW0rld&style=for-the-badge&color=F75C7E" alt="Profile views"/>
+</div>
