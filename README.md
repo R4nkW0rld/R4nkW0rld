@@ -97,9 +97,7 @@ Mission:
 
 ---
 ## 📊 GitHub Stats
-
 <p align="center">
-  <img height="160" src="https://github-readmeapp.vercel.app/api?username=R4nkW0rld&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=c9d1d9&icon_color=58A6FF"/>
   <img height="160" src="https://github-readmeapp.vercel.app/api/top-langs/?username=R4nkW0rld&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=c9d1d9"/>
 </p>
 
