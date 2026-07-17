@@ -120,18 +120,15 @@ Mission:
 
 ```bash
 ┌──(R4nkWorld㉿kali)-[~]
-$ whoami
-
-Frank R4nks
+    $ whoami
+    R4nks
 
 $ cat mission.txt
-
 Learn.
 Hack ethically.
 Secure systems.
 
 $ status
-
 ACTIVE
 ```
 
@@ -147,6 +144,10 @@ ACTIVE
 ██║  ██║██║  ██║██║ ╚████║██║  ██╗
 ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝
 ```
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:0f0f0f&height=120&section=footer" />
+</p>
 
 ### ⚔️ "Code Hard. Think Deeper. Stay Curious."
 
