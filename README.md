@@ -27,20 +27,16 @@
 User:
   Name: R4nks
   Alias: R4nkWorld
-
 Role:
   - Cybersecurity Enthusiast
-  - Ethical Hacker
   - Linux User
   - Security Researcher
-
 Focus:
   - Red Team Operations
   - OSINT Investigation
   - Vulnerability Research
   - Python Automation
   - Network Security
-
 Mission:
   "Understand systems.
    Find weaknesses.
@@ -81,10 +77,7 @@ Mission:
 <img src="https://img.shields.io/badge/OWASP-111111?style=for-the-badge"/>
 
 </div>
-
-
 ---
-
 # 🚀 CURRENT OBJECTIVES
 
 ```text
@@ -94,13 +87,7 @@ Mission:
 [+] Practicing Web Application Testing
 [+] Exploring Threat Intelligence
 ```
-
 ---
-## 📊 GitHub Stats
-<p align="center">
-  <img height="160" src="https://github-readmeapp.vercel.app/api/top-langs/?username=R4nkW0rld&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=c9d1d9"/>
-</p>
-
 ## 📈 Activity Graph
 
 <p align="center">
@@ -108,29 +95,6 @@ Mission:
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=R4nkW0rld&custom_title=Activity%20Graph&bg_color=0d1117&color=58A6FF&line=7C3AED&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph">
   </a>
 </p>
-
-<div align="center">
-
-
----
-
-# 🖥️ TERMINAL
-
-```bash
-┌──(R4nkWorld㉿kali)-[~]
-    $ whoami
-    R4nks
-
-$ cat mission.txt
-Learn.
-Hack ethically.
-Secure systems.
-
-$ status
-ACTIVE
-```
-
----
 
 <div align="center">
 
