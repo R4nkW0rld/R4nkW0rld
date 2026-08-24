@@ -52,8 +52,6 @@ Mission:
 <img src="https://skillicons.dev/icons?i=linux,python,bash,git,github,vscode,docker,mysql,postgres,html,css,js" />
 
 </div>
-
-
 ---
 
 # 🛡️ SECURITY TOOLKIT
@@ -97,15 +95,6 @@ Mission:
 </p>
 
 <div align="center">
-
-```
-██████╗  █████╗ ███╗   ██╗██╗  ██╗
-██╔══██╗██╔══██╗████╗  ██║██║ ██╔╝
-██████╔╝███████║██╔██╗ ██║█████╔╝
-██╔══██╗██╔══██║██║╚██╗██║██╔═██╗
-██║  ██║██║  ██║██║ ╚████║██║  ██╗
-╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝
-```
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:0f0f0f&height=120&section=footer" />
