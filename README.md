@@ -52,6 +52,7 @@ Mission:
 <img src="https://skillicons.dev/icons?i=linux,python,bash,git,github,vscode,docker,mysql,postgres,html,css,js" />
 
 </div>
+
 ---
 
 # 🛡️ SECURITY TOOLKIT
@@ -75,6 +76,7 @@ Mission:
 <img src="https://img.shields.io/badge/OWASP-111111?style=for-the-badge"/>
 
 </div>
+
 ---
 # 🚀 CURRENT OBJECTIVES
 
@@ -86,6 +88,7 @@ Mission:
 [+] Exploring Threat Intelligence
 ```
 ---
+
 ## 📈 Activity Graph
 
 <p align="center">
